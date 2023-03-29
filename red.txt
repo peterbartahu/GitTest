@@ -1,1 +1,3 @@
 A git diff kipróbálása
+
+diff --staged kipróbálása
